@@ -1,9 +1,10 @@
-
-<img src="https://raw.githubusercontent.com/RSandAI/HRPlanes/main/Assets/HRPlanes%20Header.png" height=400 width=1280 alt="github.com/RSandAI/HRPlanes"/>
+<img src="https://raw.githubusercontent.com/RSandAI/HRPlanes/main/Assets/HRPlanes%20Header.png" height="400" width="1280" alt="github.com/RSandAI/HRPlanes"/>
 
 <br>
 
-This repository contains weights for YOLOv4 and Faster R-CNN networks trained with the HRPlanes dataset. YOLOv4 training has been performed using [Darknet ](https://github.com/AlexeyAB/darknet), while Faster R-CNN has been trained using [TensorFlow Object Detection API v1.13](https://github.com/tensorflow/models/tree/r1.13.0).
+This repository provides weights for YOLOv4 and Faster R-CNN networks trained on the HRPlanes dataset. YOLOv4 training was conducted using [Darknet](https://github.com/AlexeyAB/darknet), while Faster R-CNN was trained using [TensorFlow Object Detection API v1.13](https://github.com/tensorflow/models/tree/r1.13.0).
+
+**For advanced models, including YOLOv8 and YOLOv9 architectures, trained on high-resolution satellite imagery for airplane detection, please refer to our project on GitHub: [Efficient-YOLO-RS-Airplane-Detection](https://github.com/RSandAI/Efficient-YOLO-RS-Airplane-Detection). You can also download the pre-trained weights from Hugging Face 🤗: [Efficient-YOLO-RS-Airplane-Detection](https://huggingface.co/iturslab/Efficient-YOLO-RS-Airplane-Detection). These models and weights are part of our research detailed in the article "[Exploring YOLOv8 and YOLOv9 for Efficient Airplane Detection in VHR Remote Sensing Imagery]()".**
 
 ## Updates
 
